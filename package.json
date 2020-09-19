@@ -1,0 +1,25 @@
+{
+  "name": "parse-egrul",
+  "version": "1.0.0",
+  "description": "Parse company data by INN code from nalog.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvs-crcr/parse-egrul.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "dvs <dvs@crcr.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvs-crcr/parse-egrul/issues"
+  },
+  "homepage": "https://github.com/dvs-crcr/parse-egrul#readme",
+  "dependencies": {
+    "bent": "^7.3.10"
+  }
+}
